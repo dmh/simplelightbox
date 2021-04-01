@@ -46,9 +46,5 @@
   "bugs": {
     "url": "https://github.com/andreknieriem/simplelightbox/issues"
   },
-  "homepage": "https://simplelightbox.com/",
-  "dependencies": {
-    "browserify": "^17.0.0",
-    "core-js": "^3.6.5"
-  }
+  "homepage": "https://simplelightbox.com/"
 }
